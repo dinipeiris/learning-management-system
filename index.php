@@ -39,10 +39,10 @@
                         <img src="Resources/10219175_customer care_customer support_support_customer service_service_icon.png" class="icon"> <br>
                         <span>Academic Officer</span>
                     </a>
-                    <!-- <a href="adminLogIn.php" class="btn admbtn my-3">
+                    <a href="adminLogIn.php" class="btn admbtn my-3">
                         <img src="Resources/3018587_admin_administrator_ajax_options_permission_icon.png" class="icon"> <br>
                         <span>Admin</span>
-                    </a> -->
+                    </a>
 
                 </div>
             </div>
